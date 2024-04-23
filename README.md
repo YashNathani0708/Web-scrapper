@@ -1,3 +1,3 @@
 # Web-scrapper
 
-Scraping all deals from red flag deals
+Scraping all deals from red flag deals.
